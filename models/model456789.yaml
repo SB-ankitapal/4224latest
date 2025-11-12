@@ -12,14 +12,13 @@ properties:
     x-stoplight:
       id: nic37xge8sieq
   ncvkv:
-    type: string
+    $ref: 'stoplight://resources/overrides/BRS7NfsYDkA'
     x-stoplight:
       id: g3res8sxfzzed
   jkndklmds:
-    type: array
+    $ref: 'stoplight://resources/overrides/sjDxxXn4PCA'
     x-stoplight:
       id: hmkb8urvd3vkv
-    items: {}
   nkdnckdc:
     type: object
     x-stoplight:

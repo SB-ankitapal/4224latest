@@ -1,0 +1,45 @@
+title: model3
+x-stoplight:
+  id: 193rjhlxsnt8x
+type: object
+properties:
+  id:
+    type: string
+    x-stoplight:
+      id: spmczl5mmhyn3
+  jjkdkjfv:
+    type: string
+    x-stoplight:
+      id: r2q8o4u8u3z5w
+  jncfkjnvjkfv:
+    type: string
+    x-stoplight:
+      id: 8g7rk2vrnwrgw
+  mnjknvjknv:
+    type: string
+    x-stoplight:
+      id: 072ave9340o5n
+  ncknkjnvvc:
+    type: string
+    x-stoplight:
+      id: 3xtxp7ckpgyk7
+  jndkfkdfdf:
+    type: string
+    x-stoplight:
+      id: ceggg431ovfzu
+  ncdklkdvk:
+    type: string
+    x-stoplight:
+      id: imts8akh280w2
+  'mcc,nv,cv':
+    type: string
+    x-stoplight:
+      id: w58oyuv72wu9j
+  ncnvcnv:
+    type: string
+    x-stoplight:
+      id: 9ohaa51jpvekz
+  kjslkdlksd:
+    type: string
+    x-stoplight:
+      id: kve6jvhycy0ns

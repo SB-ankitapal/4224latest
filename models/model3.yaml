@@ -43,3 +43,11 @@ properties:
     type: string
     x-stoplight:
       id: kve6jvhycy0ns
+  refer:
+    $ref: 'stoplight://resources/overrides/BRS7NfsYDkA'
+    x-stoplight:
+      id: vwf4e7esps2nx
+  reffff:
+    $ref: 'stoplight://resources/overrides/sjDxxXn4PCA'
+    x-stoplight:
+      id: ld7aprnr9zba1

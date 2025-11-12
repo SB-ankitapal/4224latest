@@ -1,0 +1,34 @@
+title: model2
+x-stoplight:
+  id: t7lzkl6x7y8ao
+type: object
+properties:
+  id:
+    type: integer
+    x-stoplight:
+      id: u3oke7q4ckepi
+  kjgkfjg:
+    type: integer
+    x-stoplight:
+      id: jxp58t4tp0egm
+  mmnvmbn:
+    x-stoplight:
+      id: 0e6e3pjbnj6vm
+    enum: []
+  nmfmv:
+    type: string
+    x-stoplight:
+      id: d10z7fpihsaj2
+  mmfmf:
+    type: integer
+    x-stoplight:
+      id: npcq8nd71x1jv
+  fnfnjgfg:
+    type: array
+    x-stoplight:
+      id: suo5drs6own1l
+    items: {}
+  fnknfn:
+    type: object
+    x-stoplight:
+      id: 4hfzrs9bywv75
